@@ -2,3 +2,5 @@
 *.vcx*
 Debug
 Release
+Hello/.vs
+Hello/.vs/*
