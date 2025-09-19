@@ -1,5 +1,3 @@
-*.sln
-*.vcx*
 Debug
 Release
 Hello/.vs
