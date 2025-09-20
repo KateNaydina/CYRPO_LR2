@@ -1,11 +1,9 @@
-﻿body
-{
-    width: 60em;
+﻿body {
+    line-height: 1.6;
+    width: 50em;
     height: 30em;
-
-    background-color:lightblue;
-    color:navy;
-
+    background-color: #ccd5ae;
+    color: #99582a;
     margin: 2em auto;
-    overflow:auto;
+    overflow: auto;
 }
