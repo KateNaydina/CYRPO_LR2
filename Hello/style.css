@@ -1,9 +1,24 @@
 ﻿body {
     line-height: 1.6;
     width: 50em;
-    height: 30em;
-    background-color: #ffcad4;
-    color: darkblue;
-    margin: 2em auto;
+    height: 20em;
+    background-color: whitesmoke;
+    color: navy;
+    margin: 3em auto;
+    padding: 0.5em 1em;
     overflow: auto;
+
+    border-radius: 2.5em;
+    box-shadow: 1.5em 1.5em 5em rgba(200,200,254,0.8);
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 1px solid rgba(200,200,254,0.3);
+}
+
+p {
+    text-align: justify;
+    text-indent: 3em;
+    font-size: 1.2em;
 }
